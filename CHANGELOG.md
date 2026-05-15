@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+- Improved docs
+
 ## 0.1.3
 
 - Improved commands
