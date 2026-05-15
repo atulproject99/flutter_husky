@@ -9,3 +9,7 @@
 - Analyzer checks
 - Spell checking
 - Secret detection
+
+## 0.1.1
+
+- Typo fix
