@@ -1,9 +1,10 @@
 name: flutter_husky
 description: Production-grade Git hooks for Flutter and Dart projects.
 version: 0.1.0
-homepage: https://github.com/atulproject99/flutter_husky
+homepage: https://huskey-landing-page.onrender.com/
 repository: https://github.com/atulproject99/flutter_husky
 issue_tracker: https://github.com/atulproject99/flutter_husky/issues
+documentation: https://huskey-landing-page.onrender.com/
 topics:
   - flutter
   - git-hooks

@@ -18,6 +18,12 @@ It keeps your codebase clean by running formatter, analyzer, tests, spell checki
 
 ---
 
+## Links
+
+- 🌐 Website: https://huskey-landing-page.onrender.com/
+- 📦 pub.dev: https://pub.dev/packages/flutter_husky
+- 💻 GitHub: https://github.com/atulproject99/flutter_husky
+
 # Features
 
 ## Pre-commit checks
