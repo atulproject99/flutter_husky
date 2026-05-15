@@ -1,7 +1,7 @@
-import 'package:flutter_husky/generators/pre_commit_generator.dart';
-import 'package:flutter_husky/generators/pre_push_generator.dart';
-import 'package:flutter_husky/services/git_service.dart';
-import 'package:flutter_husky/services/hook_service.dart';
+import 'package:flutter_husky/src/generators/pre_commit_generator.dart';
+import 'package:flutter_husky/src/generators/pre_push_generator.dart';
+import 'package:flutter_husky/src/services/git_service.dart';
+import 'package:flutter_husky/src/services/hook_service.dart';
 
 class InitCommand {
   Future<void> run() async {

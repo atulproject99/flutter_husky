@@ -1,4 +1,4 @@
-import 'package:flutter_husky/commands/init_command.dart';
+import 'package:flutter_husky/src/commands/init_command.dart';
 
 Future<void> main(List<String> args) async {
   if (args.isEmpty) {

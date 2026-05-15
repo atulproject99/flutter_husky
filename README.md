@@ -89,7 +89,7 @@ dart pub add --dev flutter_husky
 Run:
 
 ```bash
-dart run flutter_husky:flutter_husky flutter_husky:init
+dart run flutter_husky:init
 ```
 
 This automatically creates:
@@ -97,6 +97,22 @@ This automatically creates:
 ```txt
 .git/hooks/pre-commit
 .git/hooks/pre-push
+```
+
+---
+
+# Global Installation (Optional)
+
+Install globally:
+
+```bash
+dart pub global activate flutter_husky
+```
+
+Then run directly:
+
+```bash
+flutter_husky:init
 ```
 
 ---
@@ -122,7 +138,7 @@ flutter pub add --dev flutter_husky
 ## Generate Hooks
 
 ```bash
-dart run flutter_husky:flutter_husky flutter_husky:init
+dart run flutter_husky:init
 ```
 
 Expected output:

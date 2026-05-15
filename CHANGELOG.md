@@ -1,15 +1,21 @@
 # Changelog
 
-## 0.1.0
+## 0.1.2
 
-- Initial release
-- Pre-commit hooks
-- Pre-push hooks
-- Formatter checks
-- Analyzer checks
-- Spell checking
-- Secret detection
+- Improved package structure for cleaner pub.dev experience
 
 ## 0.1.1
 
-- Typo fix
+- Added production-grade pre-commit checks
+- Added pre-push validation
+- Added spell checking with cspell
+- Added secret detection
+- Added debug print detection
+- Added automatic hook generation
+- Improved CLI setup experience
+- Added documentation website
+- Improved README and installation guide
+
+## 0.1.0
+
+- Initial release
