@@ -4,12 +4,12 @@ Future<void> main(List<String> args) async {
   if (args.isEmpty) {
     print('Available commands:');
     print('');
-    print('flutter_husky:init');
+    print('flutter_husky init');
     return;
   }
 
   switch (args.first) {
-    case 'flutter_husky:init':
+    case 'init':
       await InitCommand().run();
       break;
 

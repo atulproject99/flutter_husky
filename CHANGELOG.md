@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+- Improved commands
+
 ## 0.1.2
 
 - Improved package structure for cleaner pub.dev experience

@@ -89,7 +89,7 @@ dart pub add --dev flutter_husky
 Run:
 
 ```bash
-dart run flutter_husky:init
+dart run flutter_husky:flutter_husky init
 ```
 
 This automatically creates:
@@ -138,7 +138,7 @@ flutter pub add --dev flutter_husky
 ## Generate Hooks
 
 ```bash
-dart run flutter_husky:init
+dart run flutter_husky:flutter_husky init
 ```
 
 Expected output:
